@@ -1,0 +1,25 @@
+{
+    "name": "bamazon-customer",
+    "version": "1.0.0",
+    "description": "The BAMazon command line interface.",
+    "main": "bamazonCustomer.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/andresfurueta/10-Node.js-MySQL"
+    },
+    "author": "Andres F Urueta",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/andresfurueta/10-Node.js-MySQL/issues"
+    },
+    "homepage": "https://github.com/andresurueta/10-Node.js-MySQL#readme",
+    "dependencies": {
+        "console.table": "^0.9.1",
+        "dotenv": "^4.0.0",
+        "inquirer": "^3.3.0",
+        "mysql": "^2.15.0"
+    }
+}
